@@ -1,0 +1,5 @@
+---
+imports:
+  - template: videos/videos
+extra_css:
+  - /css/videos.css
